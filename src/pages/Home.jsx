@@ -242,13 +242,11 @@ const ImgWrap = styled.div`
   border-radius: 5px;
   background-size: cover;
   background-position: center center;
-  box-shadow: 2px 4px 2px 2px grey;
 `;
 
 const TextWrap = styled.div`
   width: 100%;
   cursor: pointer;
-  box-shadow: 2px 4px 2px 2px grey;
   border-radius: 10px;
   padding: 0px 5px 0px 5px;
   border: 1px solid black;
@@ -283,7 +281,6 @@ const DeleteButton = styled.button`
   padding: 0;
   border: none;
   cursor: pointer;
-  box-shadow: 2px 2px 2px 2px grey;
   &:hover {
     transform: rotate(30deg);
     transition-duration: 0.5s;
@@ -299,7 +296,7 @@ const ChatButton = styled.button`
   padding: 0;
   border: none;
   border-radius: 10px;
-  box-shadow: 2px 2px 2px 2px grey;
+
   cursor: pointer;
   &:hover {
     transform: rotateY(180deg);

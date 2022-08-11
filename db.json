@@ -1,51 +1,9 @@
 {
   "comments": [
-    {
-      "username": "ㅋㅌㅊㅍㅋㅌㅊㅍㅋㅌㅊㅍ",
-      "commentName": "아야ㅐ여ㅑ어어",
-      "comment": "애아ㅐ아ㅐ아ㅐㅏㅐ아ㅐ아ㅐ아ㅐ",
-      "time": "2022-08-11T06:06:03.217Z",
-      "id": 1
-    },
-    {
-      "username": "asdasdasd",
-      "commentName": "asdasd",
-      "comment": "adsasdasdasd",
-      "time": "2022-08-11T06:24:05.988Z",
-      "id": 2
-    },
-    {
-      "username": "asdasdasd",
-      "commentName": "asdasdasd",
-      "comment": "asdasdasdasdasd",
-      "time": "2022-08-11T06:24:11.806Z",
-      "id": 3
-    }
+
   ],
   "todos": [
-    {
-      "id": 1660164854291,
-      "username": "asdasdasd",
-      "title": "asdasd",
-      "body": "asdasdasdasdasdasdas",
-      "img": "images/upload.jpg",
-      "time": "2022-08-10T20:54:14.291Z"
-    },
-    {
-      "id": 1660194167604,
-      "username": "ㅁㅇㄴㄹㅁㄴㅇㄹㅁㄴㅇㄹ",
-      "title": "ㅁㄴㅇㄹㅁㄴㅇㄹㅁㅇㄴㄹ",
-      "body": "ㅁㅇㄴㄹㅁㄴㅇㄹㅁㄴㅇㄹ",
-      "img": "images/upload.jpg",
-      "time": "2022-08-11T05:02:47.604Z"
-    },
-    {
-      "id": 1660202064930,
-      "username": "asdasdasd",
-      "title": "asdasdasd",
-      "body": "asdasdasd",
-      "img": "images/upload.jpg",
-      "time": "2022-08-11T07:14:24.930Z"
-    }
+
   ]
 }
+

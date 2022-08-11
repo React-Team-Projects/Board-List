@@ -109,26 +109,6 @@ const Wrap = styled.div`
   max-width: 100vw;
   height: 100vh;
   display: flex;
-  background: -moz-linear-gradient(
-    -45deg,
-    #183850 0,
-    #183850 25%,
-    #192c46 50%,
-    #22254c 75%,
-    #22254c 100%
-  );
-  background: -webkit-linear-gradient(
-    -45deg,
-    #183850 0,
-    #183850 25%,
-    #192c46 50%,
-    #22254c 75%,
-    #22254c 100%
-  );
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  /* background-color: #dfe4f5; */
-  position: relative;
 `;
 
 const Container = styled.section`
@@ -237,8 +217,8 @@ const Card = styled.div`
 `;
 
 const ImgWrap = styled.div`
-  width: 70px;
-  height: 70px;
+  width: 100px;
+  height: 80px;
   border-radius: 5px;
   background-size: cover;
   background-position: center center;
@@ -249,7 +229,6 @@ const TextWrap = styled.div`
   cursor: pointer;
   border-radius: 10px;
   padding: 0px 5px 0px 5px;
-  border: 1px solid black;
 `;
 
 const Title = styled.h5`
@@ -296,7 +275,6 @@ const ChatButton = styled.button`
   padding: 0;
   border: none;
   border-radius: 10px;
-
   cursor: pointer;
   &:hover {
     transform: rotateY(180deg);

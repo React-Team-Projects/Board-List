@@ -46,7 +46,7 @@ const Comment = ({ userData }) => {
     <CommnetLayout>
       <InfoData>
         <Card>
-          <Photo></Photo>
+          <Photo style={{backgroundImage: "url(" + userData.img + ")",}}></Photo>
           <Banner></Banner>
           <ul>
             <li>
